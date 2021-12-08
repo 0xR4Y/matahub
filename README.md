@@ -6,6 +6,6 @@
 - npm install
 
 - cd into social_frontend-master
-# npm install
-# npm start
+- npm install
+- npm start
 
