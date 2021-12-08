@@ -1,0 +1,18 @@
+.result-component{
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: whitesmoke;
+    padding: 2px;
+    position: relative;
+    z-index: 9999;
+}
+.search-results{
+    
+}
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+}
